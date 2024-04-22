@@ -1,4 +1,5 @@
 Schema Diagram: 
+
 <img width="323" alt="image" src="https://github.com/acampb191/Cascade_tests/assets/88842322/a5d3de84-e754-483d-bb94-42200380d807">
 
 Question 1: 
@@ -7,7 +8,9 @@ See query results for answer.
 
 Question 2:
 I assumed that by month that you did not mean January - December but month-year. See query results for answer.
-From this data I can observe that Carmen is rarely armed while wearing a coat and not wearing a hat. 
+From this data I can observe that Carmen is rarely armed while wearing a coat and not wearing a hat as the average probablility is at most 5%. 
+
+<img width="583" alt="image" src="https://github.com/acampb191/Cascade_tests/assets/88842322/a89a4d91-7e07-4709-b079-5d86c5539413">
 
 Question 3:
 Carmen's top 3 behaviors are 
