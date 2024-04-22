@@ -1,3 +1,6 @@
+Schema Diagram: 
+<img width="323" alt="image" src="https://github.com/acampb191/Cascade_tests/assets/88842322/a5d3de84-e754-483d-bb94-42200380d807">
+
 Question 1: 
 I assumed that by month that you did not mean January - December but month-year and that by region you meant you wanted to see which "city agent" Carmen was most likely to be in. In a few of the months Carmen was equally in more than 1 location so I aggregated the locations together. 
 See query results for answer. 
